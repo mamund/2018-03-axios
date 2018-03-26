@@ -1,0 +1,19 @@
+{
+  "name": "2018-03-axios",
+  "version": "0.0.0",
+  "description": "sample axios code",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "~0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "2018-03-axios"
+  },
+  "author": "Mike Amundsen",
+  "license": "BSD-2-Clause"
+}
